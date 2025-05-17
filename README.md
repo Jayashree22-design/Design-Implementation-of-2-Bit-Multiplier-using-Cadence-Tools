@@ -70,7 +70,8 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
 
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+![Screenshot 2025-05-17 092303](https://github.com/user-attachments/assets/cc1f374e-b465-4d15-8c9c-61d367caf3d3)
+
 
 Run Time : 200ns
 
